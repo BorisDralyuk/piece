@@ -12,6 +12,11 @@ body {
   width: 30px;
   height: 30px;
 }
+.btn-arrow_r{
+  margin: 5px;
+  height: 30px;
+  width: 70px;
+}
 #btn-left {
   margin-right: 32px;
 }
